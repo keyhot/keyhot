@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keyhot
-- 👀 I’m interested in basketball, coding, and lying in a bed
+- 👀 I’m interested in basketball, coding, and solving problems.
 - 🌱 I’m currently learning: FastAPI and React.js
 - 📫 How to reach me:
   azamatov0202@gmail.com
