@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball, coding, and solving problems.
 - 🌱 I’m currently learning: FastAPI and React.js
 - 📫 How to reach me:
-  azamatov0202@gmail.com
+  keyhotdev@gmail.com
 
 <!---
 keyhot/keyhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
